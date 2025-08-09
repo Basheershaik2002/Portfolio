@@ -20,7 +20,7 @@ The site is lightweight, fast, and fully deployed online.
 - Education: B.Tech in Electronics & Communication Engineering  
 - Contact links to LinkedIn, GitHub, and Email  
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Framework:** Streamlit (Frontend UI only)  
 - **Language:** Python 3  
 - **Version Control:** Git & GitHub  
